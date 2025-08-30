@@ -59,15 +59,15 @@ zokou({
           'url': _0x222ebb
         },
         'caption': _0x3daf15,
-        'footer': "*DML-MD*, developed by DML",
+        'footer': "*SMART-XMD*, developed by DML",
         'gifPlayback': true,
         'contextInfo': {
           'externalAdReply': {
-            'title': "DML-MD",
+            'title': "SMART-XMD",
             'body': "THE BEST TANZANIAN WHATSAPP BOT",
             'mediaType': 0x1,
             'thumbnailUrl': _0x4f4cfd,
-            'sourceUrl': "https://github.com/MLILA17/DML-MD",
+            'sourceUrl': "https://github.com/MLILA05/SMART-XMD",
             'showAdAttribution': true,
             [_0x2dd63f]: true
           }
@@ -81,14 +81,14 @@ zokou({
           'url': _0x222ebb
         },
         'caption': _0x3daf15,
-        'footer': "*DML-MD*, developed by DML",
+        'footer': "*SMART-XMD*, developed by DML",
         'contextInfo': {
           'externalAdReply': {
-            'title': "DML-MD",
+            'title': "SMART-XMD",
             'body': "THE BEST TANZANIAN WHATSAPP BOT",
             'mediaType': 0x1,
             'thumbnailUrl': _0x4f4cfd,
-            'sourceUrl': "https://github.com/MLILA17/DML-MD",
+            'sourceUrl': "https://github.com/MLILA05/SMART-XMD",
             'showAdAttribution': true,
             [_0x2dd63f]: true
           }
@@ -116,7 +116,7 @@ zokou({
           'body': "THE BEST TANZANIAN WHATSAPP BOT",
           'mediaType': 0x1,
           'thumbnailUrl': _0x4f4cfd,
-          'sourceUrl': "https://github.com/MLILA17/DML-MD",
+          'sourceUrl': "https://github.com/MLILA05/SMART-XMD",
           'showAdAttribution': true,
           [_0x2dd63f]: true
         }
