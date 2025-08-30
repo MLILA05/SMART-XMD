@@ -30,7 +30,7 @@ You need a session to connect your bot. Choose your preferred method:
 
 
 
-[![Pair Device](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)]()
+[![Pair Device](https://img.shields.io/badge/GET_PAIR_CODE-1BAFBA?style=for-the-badge&logo=connectdevelop&logoColor=white)](https://zokou-session.onrender.com)
 
 ---
 
