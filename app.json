@@ -1,9 +1,9 @@
 {
-  "name":"Dml4",
+  "name":"SMART-XMD",
   "description":"An Advanced Whatsapp bot 🚀 built for fast automation, media tool, and smooth group management developed by Daudy Musa",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/vcdwmp.jpg",
-  "repository":"https://github.com/MLILA17/Dml4",
+  "repository":"https://github.com/MLILA05/SMART-XMD",
   "succes_url":"/",
   "stack":"heroku-24",
   "env":{
