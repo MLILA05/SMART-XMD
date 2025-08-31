@@ -1,111 +1,8 @@
 
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 {
-  "name": "dml",
+  "name": "SMART-XMD",
   "version": "2.0.0",
-  "description": "WhatsApp Multi Device Bot",
+  "description": "smart-tech-Whatsapp-bot",
   "main": "Dml.js",
   "type": "commonjs",
   "scripts": {
@@ -116,10 +13,10 @@
     "whatsapp-openai",
     "whatsapp-bot",
     "whatsapp-baileys",
-    "baileys-md",
-    "bot-wa",
-    "bot-md",
-    "whatsapp-multi-device"
+    "smart-md",
+    "smart-tech",
+    "smart-xmd",
+    "smart-tech-Whatsapp-bot"
   ],
   "author": "Dml",
   "license": "ISC",
@@ -132,7 +29,7 @@
     "@xct007/tiktok-scraper": "^1.0.2",  
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
-    "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
+    "@whiskeysockets/baileys": "npm:baileys-mod@latest",
     "ytdl-core": "npm:@distube/ytdl-core",
     "@google/generative-ai": "^0.1.3",
     "@xaviabot/fb-downloader": "^1.0.14",
